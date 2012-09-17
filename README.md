@@ -21,14 +21,16 @@ We value personal and professional growth and reward attention to detail.
 
 A trained cat and dog run a race, one hundred feet straight away and return. The dog leaps three feet at each bound and the cat but two, but then she makes three leaps to his two. Now, under those circumstances, who wins the race?  
 
-****Input****
+***Input***
 
 The race distance eg 100, 200
 
-****Output****  
+***Output***  
 
 {Animal} wins by {distance}
 
 Cat wins by 50 feet   
 Dog wins by 10 feet  
 or Draw  
+
+We will get back to you within a week of submitting your solution
